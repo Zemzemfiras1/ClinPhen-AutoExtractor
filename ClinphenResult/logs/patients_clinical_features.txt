@@ -1,0 +1,106 @@
+Starting ClinPhen pipeline...
+Input file: patients_clinical_features.tsv
+Log file: ClinphenResult/logs/patients_clinical_features.txt
+====================================
+Processing P001
+====================================
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0001250	Seizures	1	0	seizures 
+HP:0001263	Global developmental delay	1	1	developmental delay 
+HP:0001290	Generalized hypotonia	1	2	hypotonia 
+HP:0001319	Neonatal hypotonia	1	2	hypotonia 
+HP:0000252	Microcephaly	1	3	microcephaly 
+HP:0011451	Congenital microcephaly	1	3	microcephaly 
+HP:0001249	Intellectual disability	1	4	intellectual disability
+====================================
+Processing P002
+====================================
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0001263	Global developmental delay	1	0	global developmental delay 
+HP:0001250	Seizures	1	1	epilepsy 
+HP:0000750	Delayed speech and language development	1	2	speech delay 
+HP:0000717	Autism	1	3	autism spectrum disorder 
+HP:0000729	Autistic behavior	1	3	autism spectrum disorder 
+HP:0001290	Generalized hypotonia	1	4	hypotonia
+HP:0001319	Neonatal hypotonia	1	4	hypotonia
+====================================
+Processing P003
+====================================
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0000365	Hearing impairment	1	0	hearing loss 
+HP:0001249	Intellectual disability	1	1	intellectual disability 
+HP:0001999	Abnormal facial shape	1	2	facial dysmorphism 
+HP:0004322	Short stature	1	3	short stature 
+HP:0001263	Global developmental delay	1	4	developmental delay
+====================================
+Processing P004
+====================================
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0001250	Seizures	1	0	seizures 
+HP:0000505	Visual impairment	1	1	cortical visual impairment 
+HP:0100704	Cerebral visual impairment	1	1	cortical visual impairment 
+HP:0001257	Spasticity	1	2	spasticity 
+HP:0001263	Global developmental delay	1	3	developmental delay 
+HP:0000252	Microcephaly	1	4	microcephaly
+HP:0011451	Congenital microcephaly	1	4	microcephaly
+====================================
+Processing P005
+====================================
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0001638	Cardiomyopathy	1	0	cardiomyopathy 
+HP:0001290	Generalized hypotonia	1	1	hypotonia 
+HP:0001319	Neonatal hypotonia	1	1	hypotonia 
+HP:0011968	Feeding difficulties	1	2	feeding difficulties 
+HP:0001508	Failure to thrive	1	3	failure to thrive 
+HP:0001263	Global developmental delay	1	4	developmental delay
+====================================
+Processing P006
+====================================
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0001251	Ataxia	1	0	ataxia 
+HP:0001250	Seizures	1	1	seizures 
+HP:0001249	Intellectual disability	1	2	intellectual disability 
+HP:0001288	Gait disturbance	1	3	abnormal gait 
+HP:0001263	Global developmental delay	1	4	developmental delay
+====================================
+Processing P007
+====================================
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0001627	Abnormal heart morphology	1	0	congenital heart defect 
+HP:0030680	Abnormality of cardiovascular system morphology	1	0	congenital heart defect 
+HP:0001290	Generalized hypotonia	1	2	hypotonia 
+HP:0001319	Neonatal hypotonia	1	2	hypotonia 
+HP:0001263	Global developmental delay	1	3	developmental delay 
+HP:0000175	Cleft palate	1	4	cleft palate
+====================================
+Processing P008
+====================================
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0000717	Autism	1	0	autism spectrum disorder 
+HP:0000729	Autistic behavior	1	0	autism spectrum disorder 
+HP:0001249	Intellectual disability	1	1	intellectual disability 
+HP:0001250	Seizures	1	2	seizures 
+HP:0000750	Delayed speech and language development	1	3	speech delay 
+HP:0000256	Macrocephaly	1	4	macrocephaly
+HP:0004488	Macrocephaly at birth	1	4	macrocephaly
+====================================
+Processing P009
+====================================
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0001258	Spastic paraplegia	1	0	spastic paraplegia 
+HP:0010550	Paraplegia	1	0	spastic paraplegia 
+HP:0001263	Global developmental delay	1	1	developmental delay 
+HP:0001250	Seizures	1	2	seizures 
+HP:0000505	Visual impairment	1	3	vision impairment 
+HP:0100543	Cognitive impairment	1	4	cognitive impairment
+====================================
+Processing P010
+====================================
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0000077	Abnormality of the kidney	1	0	renal anomaly 
+HP:0000365	Hearing impairment	1	1	hearing loss 
+HP:0001263	Global developmental delay	1	2	developmental delay 
+HP:0001290	Generalized hypotonia	1	3	hypotonia 
+HP:0001319	Neonatal hypotonia	1	3	hypotonia 
+HP:0001510	Growth delay	1	4	growth retardation
+Pipeline completed.

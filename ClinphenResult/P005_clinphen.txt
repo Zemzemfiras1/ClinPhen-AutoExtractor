@@ -1,0 +1,7 @@
+HPO ID	Phenotype name	No. occurrences	Earliness (lower = earlier)	Example sentence
+HP:0001638	Cardiomyopathy	1	0	cardiomyopathy 
+HP:0001290	Generalized hypotonia	1	1	hypotonia 
+HP:0001319	Neonatal hypotonia	1	1	hypotonia 
+HP:0011968	Feeding difficulties	1	2	feeding difficulties 
+HP:0001508	Failure to thrive	1	3	failure to thrive 
+HP:0001263	Global developmental delay	1	4	developmental delay
