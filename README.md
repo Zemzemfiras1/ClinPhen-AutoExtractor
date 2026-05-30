@@ -145,7 +145,7 @@ Per-patient output + logs
 
 This pipeline is based on:
 
-> Deisseroth, C.A., Birgmeier, J., Bodle, E.E. et al. ClinPhen extracts and prioritizes patient phenotypes directly from medical records to expedite genetic disease diagnosis. Genet Med 21, 1585–1593 (2019). https://doi.org/10.1038/s41436-018-0381-
+> Deisseroth, C.A., Birgmeier, J., Bodle, E.E. et al. ClinPhen extracts and prioritizes patient phenotypes directly from medical records to expedite genetic disease diagnosis. Genet Med 21, 1585–1593 (2019). https://doi.org/10.1038/s41436-018-0381-1
 
 > [!NOTE]
 > This repository does not modify or reimplement the original ClinPhen algorithm.  
